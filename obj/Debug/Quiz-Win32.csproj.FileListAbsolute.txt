@@ -1,0 +1,14 @@
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz_Win32.Properties.Resources.resources
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.csproj.GenerateResource.cache
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\Quiz-Win32\bin\Debug\Quiz-Win32.exe.config
+C:\Users\meshmi\source\repos\Quiz-Win32\bin\Debug\Quiz-Win32.exe
+C:\Users\meshmi\source\repos\Quiz-Win32\bin\Debug\Quiz-Win32.pdb
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.exe
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.pdb
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz_Win32.QUIZ.resources
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\Quiz-Win32\bin\Debug\Quiz-Win32.exe.manifest
+C:\Users\meshmi\source\repos\Quiz-Win32\bin\Debug\Quiz-Win32.application
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.exe.manifest
+C:\Users\meshmi\source\repos\Quiz-Win32\obj\Debug\Quiz-Win32.application
